@@ -1,10 +1,10 @@
 # A Long December - Counting Crows
 
-## Intro/Chorus
+
 ```
 E   A   F#m   A    E    A    F#m
 ```
-## Verse 1
+
 ```
 A          E                  B           F#m
   A long December and there's reason to believe
@@ -23,7 +23,7 @@ And it's one more night in Hollywood
        E                  A     F#m
 If you think that I could be forgiven... I wish you would.
 ```
-## Chorus
+
 ```
 E            A    F#m            A
    Na, na-na, na. Na, na-na, na-na, na-na, na, na.
@@ -31,7 +31,6 @@ E            A    F#m
    Na, na-na, na. Yeah...
 ```
 
-## Verse 2
 ```
  A              E            B
    The smell of hospitals in winter
@@ -51,7 +50,6 @@ And it's one more night in Hollywood
 If you think you might come to California... I think you should
 ```
 
-## Verse 3
 ```
  A             E              B              F#m
    Drove up to Hillside Manor sometime after two a.m.
