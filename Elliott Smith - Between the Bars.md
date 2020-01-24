@@ -1,8 +1,7 @@
 # Elliott Smith - Between the Bars
 
-### Verse 1
 ```
-Am7              F                        C
+Am7              F
 Drink up, baby, stay up all night.
            C
 With the things you could do,
@@ -30,7 +29,6 @@ And drive them away
 The images stuck in your head
 ```
 
-### Chorus
 ```
 F   G    
 People you've been before
@@ -42,7 +40,6 @@ F                 Fm
   I’ll keep them still.
 ```
 
-### Verse 2
 ```
  Am7               F
 Drink up, baby, look at the stars.
@@ -70,18 +67,4 @@ Separate from the rest,
 Where I like you the best,
       C       E7          F
 And keep the things you forgot.
-```
-
-### Chorus
-```
-         G    
-The people you've been before
-          F     G     Am     Am/F#
-That you don't want around anymore—
-       F       G         
-That push and shove and won't bend to your will.
-F                  Fm
-  I'll keep them still.
-
-Am7
 ```
