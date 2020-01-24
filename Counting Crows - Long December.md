@@ -1,94 +1,79 @@
 # A Long December - Counting Crows
 
-## Intro
+## Intro/Chorus
 ```
-G   C   Am   C    G    C    Am
+E   A   F#m   A    E    A    F#m
 ```
 ## Verse 1
 ```
-C          G                  D           Am
+A          E                  B           F#m
   A long December and there's reason to believe
-      C                 G               C
+      A                 E               A
 Maybe this year will be better than the last
- Am             C       G                   D
+ F#m             A       E                   B
    I can't remember the last thing that you said as you were
-Am
+F#m
 leavin'
-        G             C
+        E             A
 Now the days go by so fast
-         G               C         Am
+         E               A         F#m
 And it's one more day up in the canyons
-         G              C          Am
+         E              A          F#m
 And it's one more night in Hollywood
-       G                  C     Am
+       E                  A     F#m
 If you think that I could be forgiven... I wish you would.
 ```
 ## Chorus
 ```
-G            C    Am            C
+E            A    F#m            A
    Na, na-na, na. Na, na-na, na-na, na-na, na, na.
-G            C    Am
+E            A    F#m
    Na, na-na, na. Yeah...
 ```
 
 ## Verse 2
 ```
- C              G            D
+ A              E            B
    The smell of hospitals in winter
-        Am                C            G
+        F#m                A            E
 And the feeling that it's all a lot of oysters, but no
- C
+ A
 pearls
-Am        C              G               D
+F#m        A              E               B
    All at once you look across a crowded room
-           Am               G           C
+           F#m               E           A
 To see the way that light attaches to a girl
-         G               C         Am
+         E               A         F#m
 And it's one more day up in the canyons
-         G                 C       Am
+         E                 A       F#m
 And it's one more night in Hollywood
-       G               C           Am
+       E               A           F#m
 If you think you might come to California... I think you should
-```
-
-## Chorus
-```
-G            C    Am            C
-   Na, na-na, na. Na, na-na, na-na, na-na, na, na.
-G            C    Am
-   Na, na-na, na. Yeah...
 ```
 
 ## Verse 3
 ```
- C             G              D              Am
+ A             E              B              F#m
    Drove up to Hillside Manor sometime after two a.m.
-    C               G               C
+    A               E               A
 And talked a little while about the year
-Am             C                G              D
+F#m             A                E              B
    I guess the winter makes you laugh a little slower,
-           Am            G               C
+           F#m            E               A
 Makes you talk a little lower about the things you could not
 show her
-                C    G                    D           Am
+                A    E                    B           F#m
 And it's been a long December and there's reason to believe
-      C                 G               C
+      A                 E               A
 Maybe this year will be better than the last
-Am           C               G               D
+F#m           A               E               B
    I can't remember all the times I tried to tell my myself
-   Am               G               C
+   F#m               E               A
 To hold on to these moments as they pass
-         G               C         Am
+         E               A         F#m
 And it's one more day up in the canyons
-         G              C          Am
+         E              A          F#m
 And it's one more night in Hollywood
-     G                       C            Am
+     E                       A            F#m
 It's been so long since I've seen the ocean... I guess I should
-```
-## Chorus
-```
-G            C    Am            C
-   Na, na-na, na. Na, na-na, na-na, na-na, na, na.
-G            C    Am
-   Na, na-na, na. Yeah...
 ```
