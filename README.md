@@ -9,9 +9,13 @@
 * Cage the Elephant - Skin & Bone, Ready to Let Go
 * Lifehouse - Six Cycle
 * Collective Soul - World I know
+* Hot Water Music - Bleeder
+* Hootie and the Blowfish - Let her cry
 
 
-Playlist
+Pairs
+===========================================
+
 * Elliott Smith - Between the bars / Lifehouse - Six cycle 
+* Matchbox 20 - Push / Hootie - Let her cry
 * Collective Soul - World I know (instr iris blend)
-* Matchbox 20 - Push
