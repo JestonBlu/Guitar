@@ -25,8 +25,6 @@ Just like sunny days that we ignore
 Because we're all dumb and jaded
 And, and I hope to God I figure out what's wrong
 
-{Kickass Guitar solo}
-
 And I hope to God I figure out what's wrong
 And I hope to God I figure out what's wrong
 
