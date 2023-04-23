@@ -14,6 +14,7 @@ And if I don't make it known that I've loved you all along
 Just like sunny days that we ignore
 Because we're all dumb and jaded
 And, and I hope to God I figure out what's wrong
+
 I walked around my room not thinking
 Just sinking in this box
 I blame myself for being too much, like somebody else
